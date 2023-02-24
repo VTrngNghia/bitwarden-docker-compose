@@ -1,4 +1,4 @@
-{$DOMAIN} {
+warden.trongnghia.one {
     log {
         output file {$LOG_FILE}
         level INFO
